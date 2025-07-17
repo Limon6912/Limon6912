@@ -7,13 +7,13 @@ Contacto
   <br><br>
 <div id="badges">
 <a href="https://www.linkedin.com/in/limoneduardo/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn limon"/>
 </a>
 <a href="https://www.instagram.com/eduardo_limon.31/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram limon"/>
 </a>
 <a href="mailto:pepetazlimon23@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red" alt="correo limon"/>
 </a>
 
 </div>
