@@ -6,7 +6,7 @@
 Contacto
   <br><br>
 <div id="badges">
-<a href="https://www.linkedin.com/in/shaunak-chandra-6b3363215/](https://www.linkedin.com/in/limoneduardo/">
+<a href="https://www.linkedin.com/in/limoneduardo/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>
 <a href="https://www.instagram.com/eduardo_limon.31/">
